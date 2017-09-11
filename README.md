@@ -1,4 +1,4 @@
 # cs3240-labdemo
 
 
-this is from atom
+I am changing the readme from github.com
